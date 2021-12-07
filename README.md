@@ -1,3 +1,3 @@
 # Advent of Code
 
-Adventure of Code C++ solutions.
+ Adventure of Code solutions.
